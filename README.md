@@ -1,3 +1,9 @@
+<div align="center">
+	<br>
+	<img src="header.svg" width="800" height="400">
+	<br>
+</div>
+
 ### Hi there 👋
 
 <!--
@@ -21,9 +27,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=georgiosgiatsidis&count_private=true&show_icons=true&theme=dracula" />
 </a>
-
-<div align="center">
-	<br>
-	<img src="header.svg" width="800" height="400">
-	<br>
-</div>
