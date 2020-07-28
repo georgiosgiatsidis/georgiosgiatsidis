@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<img src="./header.svg" width="800" height="400">
+	<img src="https://raw.githubusercontent.com/georgiosgiatsidis/georgiosgiatsidis/master/header.svg" width="800" height="400">
 	<br>
 </div>
 
