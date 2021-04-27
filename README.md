@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-* :office: Frontend Engineer at [BetAdvanced](https://www.github.com/betadvanced)
+* :office: Javascript Engineer at [BetAdvanced](https://www.github.com/betadvanced)
 * :mortar_board: MSc [Computer Science and Technology](http://mai.uom.gr/frontend/index.php?chlang=EN), [University of Macedonia](https://www.uom.gr/en), Thessaloniki (Greece)
 * :mortar_board: BSc [Computer Science](http://inf.teiste.gr/), [University of Thessaly](http://old.uth.gr/en/), Lamia (Greece)
 
