@@ -3,6 +3,8 @@
 
 [![](https://img.shields.io/badge/-@georgiosgiatsidis-%23181717?style=flat-square&logo=github)](https://github.com/georgiosgiatsidis)
 [![](https://img.shields.io/badge/-Georgios%20Giatsidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgegiatsidis/)](https://www.linkedin.com/in/georgegiatsidis/)
+![](https://komarev.com/ghpvc/?username=georgiosgiatsidis)
+
 
 * :office: Javascript Engineer at [BetAdvanced](https://www.github.com/betadvanced)
 * :mortar_board: MSc [Computer Science and Technology](http://mai.uom.gr/frontend/index.php?chlang=EN), [University of Macedonia](https://www.uom.gr/en), Thessaloniki (Greece 🇬🇷)
